@@ -1,0 +1,18 @@
+/** global element styling **/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: #eee;
+  font-family: 'Oleo Script', cursive; 
+  color: #228B22; 
+  font-size: 52px;
+}
+
+#page-wrapper {
+  position: relative;
+}
